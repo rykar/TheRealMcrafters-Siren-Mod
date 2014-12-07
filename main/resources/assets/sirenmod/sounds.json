@@ -1,0 +1,8 @@
+{
+  "sirenOne": {"category": "master","sounds": [{"name": "sirens/sirenOne","stream": false}]},
+  "sirenNuclearBomb": {"category": "master","sounds": [{"name": "sirens/sirenNuclearBomb","stream": false}]},
+  "sirenBurglar": {"category": "master","sounds": [{"name": "sirens/sirenBurglar","stream": false}]},
+  "sirenFire": {"category": "master","sounds": [{"name": "sirens/sirenFire","stream": false}]}
+
+  }
+  
